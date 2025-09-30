@@ -28,3 +28,7 @@ This dashboard gives a comprehensive view of business performance, helping stake
 This project is a corporate-level sales performance dashboard built in Tableau using a dataset of Indian retail transactions from 2021 to 2024. The objective was to transform raw transactional data into actionable business intelligence for executive stakeholders, focusing on revenue drivers, geographic performance, and customer behavior.
 
 <img width="1264" height="878" alt="ind_sales" src="https://github.com/user-attachments/assets/f8f4f9a6-086a-4ae2-a183-e6931ae1ffcd" />
+
+#Employee Engagement Survey Dashboard
+
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/385a85dc-9143-4ff7-88d7-b71b4c56572d" />
