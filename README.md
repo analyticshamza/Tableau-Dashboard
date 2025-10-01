@@ -32,3 +32,10 @@ This project is a corporate-level sales performance dashboard built in Tableau u
 #Employee Engagement Survey Dashboard
 
 <img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/385a85dc-9143-4ff7-88d7-b71b4c56572d" />
+
+#Myntra Jeans & Brand Performance Dashboard (September 2025) 
+
+This dashboard offers a clear, high-fidelity view of key e-commerce metrics including brand ratings, product trends, and revenue segmentation. Designed for rapid analysis and strategic decision-making.
+
+<img width="1346" height="794" alt="image" src="https://github.com/user-attachments/assets/876c54a2-6d55-4f40-a249-75808820e1ab" />
+
